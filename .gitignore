@@ -1,4 +1,4 @@
-git rm -r --cached .idea/
-git rm -r --cached .vscode/
-git rm -r --cached .DS_Store/
-git rm -r --cached .sqlite3
+.idea/
+*.sqlite3
+.vscode/
+.DS_Store/
